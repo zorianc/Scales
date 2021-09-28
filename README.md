@@ -27,4 +27,12 @@ Random variations in size and color are common in nature and will give your patt
 
 Samples of Student Work
 -----------------------
-None yet!
+None yet!  
+However, here is an example for inspiration:
+
+### [DNA Scales!](https://chandrunarayan.github.io/sketches/DNAScales/)
+
+* ![alt text][dnascales]
+
+[dnascales]: dnascales.png
+
